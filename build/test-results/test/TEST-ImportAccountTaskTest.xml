@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImportAccountTaskTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-06T17:19:50" hostname="ENOCK" time="0.039">
+  <properties/>
+  <testcase name="call_isReturnTypeAccount_correctReturnType()" classname="ImportAccountTaskTest" time="0.032"/>
+  <testcase name="call_returnsCorrectAccount_accountReturned()" classname="ImportAccountTaskTest" time="0.004"/>
+  <testcase name="callableInterface_checkDeclaration_implementsCallable()" classname="ImportAccountTaskTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
